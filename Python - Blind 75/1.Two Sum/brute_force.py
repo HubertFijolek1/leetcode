@@ -2,6 +2,7 @@ def two_sum_brute_force(nums, target):
     """
     A brute force solution to the Two Sum problem that checks all pairs of numbers to find two that sum to the target.
     
+    
     Args:
     nums (List[int]): The list of integers.
     target (int): The target sum.
