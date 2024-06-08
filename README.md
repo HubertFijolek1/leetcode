@@ -21,7 +21,7 @@ Ensure you have Python installed on your system. This project is developed using
 To create a virtual environment, navigate to the project's root directory and run:
 ```bash
 python -m venv venv
-
+```
 To activate the virtual environment, use the following command:
 
 - **On Windows:**
