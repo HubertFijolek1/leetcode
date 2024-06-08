@@ -1,6 +1,6 @@
 import pytest
-from brute_force import two_sum_brute_force
-from optimized_solution import two_sum_hash_table
+from ..two_sum.brute_force import two_sum_brute_force
+from ..two_sum.hash_map import two_sum_hash_table
 
 @pytest.mark.parametrize("func, nums, target, expected", [
     (two_sum_brute_force, [2, 7, 11, 15], 9, [0, 1]),
