@@ -2,6 +2,7 @@ def two_sum_hash_table(nums, target):
     """
     An optimized solution to the Two Sum problem using a hash table to store numbers and their indices for quick lookup.
     
+    
     Args:
     nums (List[int]): The list of integers.
     target (int): The target sum.
