@@ -1,4 +1,14 @@
-venv/
-./venv/
-__pycache__/
+# Ignore Python bytecode files
 *.pyc
+__pycache__/
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore other files
+*.log
+*.csv
+*.sqlite
