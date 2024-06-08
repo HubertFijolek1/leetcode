@@ -27,22 +27,22 @@ To activate the virtual environment, use the following command:
 - **On Windows:**
 ```bash
 venv\Scripts\activate
-
+```
 - **On macOS and Linux:
 
 ```bash
 source venv/bin/activate
-
+```
 ### Installing Dependencies
 Install all required libraries from the requirements.txt file:
 ```bash
 pip install -r requirements.txt
-
+```
 ### Running Tests
 To run the tests, ensure you are in the project root directory and your virtual environment is activated. Then execute:
 ```bash
 pytest
-
+```
 This will run all the tests defined in the tests/ directory and provide a report on the outcomes.
 
 ###Contact
