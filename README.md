@@ -14,7 +14,6 @@ This repository contains my solutions to various LeetCode problems, implemented 
 ### Prerequisites
 Ensure you have Python installed on your system. This project is developed using Python 3.8. Other prerequisites include:
 - pip (Python package installer)
-- Virtual environment manager (optional, but recommended)
 
 ### Setting Up a Virtual Environment
 
@@ -28,7 +27,7 @@ To activate the virtual environment, use the following command:
 ```bash
 venv\Scripts\activate
 ```
-- **On macOS and Linux:
+- **On macOS and Linux**:
 
 ```bash
 source venv/bin/activate
@@ -45,7 +44,7 @@ pytest
 ```
 This will run all the tests defined in the tests/ directory and provide a report on the outcomes.
 
-###Contact
+### Contact
 If you have any queries or need further assistance, please contact me via GitHub.
 
 
