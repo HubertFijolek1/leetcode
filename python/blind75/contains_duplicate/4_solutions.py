@@ -54,6 +54,7 @@ def contains_duplicate_set(numbers):
     '''
     return False if len(set(numbers)) == len(numbers) else True
 
+
 print(contains_duplicate_bf(list_without_duplicates))  # Output: False
 print(contains_duplicate_bf(list_with_duplicates))     # Output: True
 
