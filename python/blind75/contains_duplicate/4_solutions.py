@@ -15,6 +15,7 @@ def contains_duplicate_bf(numbers):
                 return True
     return False
 
+
 def contains_duplicate_sort(numbers):
     '''
     Complexity: O(nlogn) 
