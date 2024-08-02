@@ -3,6 +3,7 @@ In this solution, we compare every possible pair of buying and selling days to f
 '''
 
 def max_profit_brute_force(prices):
+    
     max_profit = 0
     for i in range(len(prices)):
         for j in range(i + 1, len(prices)):
