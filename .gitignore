@@ -12,3 +12,6 @@ venv/
 *.log
 *.csv
 *.sqlite
+
+# Ignore mac system files
+.DS_Store
