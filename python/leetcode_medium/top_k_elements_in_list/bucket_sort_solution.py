@@ -38,7 +38,6 @@ class Solution:
         count = {}
         freq = [[] for _ in range(len(nums) + 1)]
 
-
         for n in nums:
             count[n] = 1 + count.get(n, 0)
         
