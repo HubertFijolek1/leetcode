@@ -10,7 +10,7 @@ def isValidSudoku(board):
     Space Complexity: O(1) as no extra space is needed beyond the input.
     
     :param board: A 9x9 list of lists representing the Sudoku board.
-    :return: Boolean value indicating whether the Sudoku board is valid.
+    :return: Boolean value indicating whether the Sudoku board is valid
     """
     
     # Helper function to check if a group (row, column, or box) is valid
