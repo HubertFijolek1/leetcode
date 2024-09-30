@@ -1,3 +1,4 @@
+from typing import Optional, ListNode
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         """
